@@ -1,0 +1,147 @@
+
+       _________________________________________________________________________________________________  
+      /                                                                                                 \ 
+              ⋆｡˚ ✈︎ ✈️ ⋆       Tactical conflict Resolution Service Provision - AURD       ⋆｡˚ ✈︎ ✈️ ⋆        
+      \_________________________________________________________________________________________________/ 
+
+Connection attempt to the AURD environment
+...
+Succesfull authentification
+Provider : rodolphe02
+[12/09/24] 16:31:23 [NEW OPERATION - UAS0] (rodolphe02)
+[12/09/24] 16:31:23 [NEW OPERATION - AMZN1] (RODOLPHE02)
+[12/09/24] 16:31:23 [NEW OPERATION - EVTOL1001] (rodolphe02)
+[12/09/24] 16:31:43 [ENDED OPERATION - AMZN1]
+[12/09/24] 16:33:08 [NEW OPERATION - CRAV21] (RODOLPHE02)
+[12/09/24] 16:33:08 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:33:08 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 158ft
+[12/09/24] 16:33:08 [CRAV21-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:33:48 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 224 and maintain for 22 seconds then turn right to heading 269
+[12/09/24] 16:34:08 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:34:08 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Turn left to heading 224 and maintain for 22 seconds then turn right to heading 269
+[12/09/24] 16:34:08 [EVTOL1001-rodolphe02 - RESOLUTION ADVISORY] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:34:08 [EVTOL1001-rodolphe02 - RESOLUTION ADVISORY] Climb to a higher flight level at 258ft
+[12/09/24] 16:34:38 [NEW OPERATION - HORSE16] (RODOLPHE02)
+[12/09/24] 16:34:38 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:34:38 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 314 and maintain for 22 seconds then turn left recovering heading 269
+[12/09/24] 16:34:38 [EVTOL1001-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:35:23 [ENDED OPERATION - CRAV21]
+[12/09/24] 16:35:23 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:35:23 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 198 and maintain for 22 seconds then turn right to heading 243
+[12/09/24] 16:35:23 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:35:23 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 158ft
+[12/09/24] 16:35:38 [HORSE16-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:35:53 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:35:53 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 291 and maintain for 22 seconds then turn left recovering heading 246
+[12/09/24] 16:35:58 [NEW OPERATION - CRA2] (RODOLPHE02)
+[12/09/24] 16:35:58 [NEW OPERATION - M10017] (RODOLPHE02)
+[12/09/24] 16:35:58 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 201 and maintain for 22 seconds then turn right to heading 246
+[12/09/24] 16:36:18 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 291 and maintain for 22 seconds then turn left recovering heading 246
+[12/09/24] 16:36:23 [ENDED OPERATION - HORSE16]
+[12/09/24] 16:36:23 [CRA2-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 68 kts
+[12/09/24] 16:36:23 [EVTOL1001-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:36:29 [CRA2-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 16:36:29 [M10017-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:36:43 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:36:43 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 201 and maintain for 22 seconds then turn right to heading 246
+[12/09/24] 16:36:48 [CRA2-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 68 kts
+[12/09/24] 16:36:48 [M10017-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 34 kts
+[12/09/24] 16:36:53 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:36:53 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 291 and maintain for 22 seconds then turn left recovering heading 246
+[12/09/24] 16:36:58 [ENDED OPERATION - CRA2]
+[12/09/24] 16:37:18 [M10017-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:37:23 [M10017-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 34 kts
+[12/09/24] 16:37:23 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:37:23 [EVTOL1001-rodolphe02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 158ft
+[12/09/24] 16:37:28 [EVTOL1001-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 6 kts
+[12/09/24] 16:37:33 [NEW OPERATION - HORSE3] (RODOLPHE02)
+[12/09/24] 16:37:38 [NEW OPERATION - M20018] (RODOLPHE02)
+[12/09/24] 16:37:43 [ENDED OPERATION - M10017]
+[12/09/24] 16:38:08 [M20018-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:38:23 [HORSE3-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 32 kts
+[12/09/24] 16:38:23 [HORSE3-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:38:33 [HORSE3-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 34 kts
+[12/09/24] 16:38:33 [M20018-RODOLPHE02 - RESOLUTION ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:38:58 [ENDED OPERATION - HORSE3]
+[12/09/24] 16:38:58 [M20018-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 36 kts
+[12/09/24] 16:39:13 [NEW OPERATION - M20019] (RODOLPHE02)
+[12/09/24] 16:39:18 [ENDED OPERATION - M20018]
+[12/09/24] 16:39:23 [NEW OPERATION - MNET4] (RODOLPHE02)
+[12/09/24] 16:39:23 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:40:18 [M20019-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:40:18 [MNET4-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 15 kts
+[12/09/24] 16:40:18 [MNET4-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:40:23 [MNET4-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 16 kts
+[12/09/24] 16:40:48 [NEW OPERATION - MNET5] (RODOLPHE02)
+[12/09/24] 16:40:53 [ENDED OPERATION - M20019]
+[12/09/24] 16:40:58 [NEW OPERATION - M10020] (RODOLPHE02)
+[12/09/24] 16:41:28 [MNET4-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 14 kts
+[12/09/24] 16:41:28 [MNET4-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:41:28 [M10020-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:41:38 [MNET4-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 16 kts
+[12/09/24] 16:42:13 [M10020-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 16:42:23 [NEW OPERATION - M1006] (RODOLPHE02)
+[12/09/24] 16:42:23 [ENDED OPERATION - MNET4]
+[12/09/24] 16:42:28 [NEW OPERATION - MNET21] (RODOLPHE02)
+[12/09/24] 16:42:43 [ENDED OPERATION - M10020]
+[12/09/24] 16:42:43 [MNET5-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 14 kts
+[12/09/24] 16:42:43 [MNET5-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:42:43 [M1006-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:43:03 [MNET5-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 16 kts
+[12/09/24] 16:43:28 [M1006-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 16:43:43 [NEW OPERATION - EVTOL1002] (rodolphe02)
+[12/09/24] 16:43:48 [ENDED OPERATION - M1006]
+[12/09/24] 16:44:03 [NEW OPERATION - M6007] (RODOLPHE02)
+[12/09/24] 16:44:08 [NEW OPERATION - MAV22] (RODOLPHE02)
+[12/09/24] 16:44:08 [MNET5-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 14 kts
+[12/09/24] 16:44:08 [MNET5-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:44:38 [M6007-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:44:58 [ENDED OPERATION - MNET5]
+[12/09/24] 16:44:58 [MNET21-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 16 kts
+[12/09/24] 16:45:18 [M6007-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 16:45:18 [MAV22-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 16:45:24 [EVTOL1002-rodolphe02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at -17 kts
+[12/09/24] 16:45:24 [EVTOL1002-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 102ft
+[12/09/24] 16:45:24 [MNET21-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:45:33 [NEW OPERATION - PHAN23] (RODOLPHE02)
+[12/09/24] 16:45:43 [NEW OPERATION - AMZN8] (RODOLPHE02)
+[12/09/24] 16:45:43 [ENDED OPERATION - M6007]
+[12/09/24] 16:45:44 [MNET21-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:45:44 [AMZN8-RODOLPHE02 - RESOLUTION ADVISORY] Accelerate to calibrate your speed at 170 kts
+[12/09/24] 16:45:49 [EVTOL1002-rodolphe02 - RESOLUTION ADVISORY] Recover your initial speed calibrated at 0 kts
+[12/09/24] 16:45:49 [EVTOL1002-rodolphe02 - RESOLUTION ADVISORY] Climb to a higher flight level at 102ft
+[12/09/24] 16:45:49 [AMZN8-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:45:59 [ENDED OPERATION - MNET21]
+[12/09/24] 16:45:59 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:45:59 [EVTOL1002-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 0 kts
+[12/09/24] 16:45:59 [AMZN8-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:45:59 [AMZN8-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:46:03 [ENDED OPERATION - AMZN8]
+[12/09/24] 16:46:04 [PHAN23-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:46:14 [ENDED OPERATION - MAV22]
+[12/09/24] 16:46:14 [PHAN23-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 31 kts
+[12/09/24] 16:46:53 [NEW OPERATION - AMZN24] (RODOLPHE02)
+[12/09/24] 16:47:09 [NEW OPERATION - M6009] (RODOLPHE02)
+[12/09/24] 16:47:09 [M6009-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:47:14 [PHAN23-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:47:14 [AMZN24-RODOLPHE02 - RESOLUTION ADVISORY] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:47:14 [AMZN24-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:47:19 [M6009-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 28 kts
+[12/09/24] 16:47:23 [ENDED OPERATION - PHAN23]
+[12/09/24] 16:47:24 [AMZN24-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:47:28 [ENDED OPERATION - AMZN24]
+[12/09/24] 16:47:39 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 16:47:39 [M6009-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:47:44 [M6009-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 28 kts
+[12/09/24] 16:48:38 [NEW OPERATION - CRA25] (RODOLPHE02)
+[12/09/24] 16:48:59 [NEW OPERATION - AMZN10] (RODOLPHE02)
+[12/09/24] 16:49:04 [M6009-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial flight level assigned at 250ft
+[12/09/24] 16:49:09 [AMZN10-RODOLPHE02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:49:09 [AMZN10-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:49:14 [AMZN10-RODOLPHE02 - RESOLUTION ADVISORY] Recover your initial speed calibrated at 156 kts
+[12/09/24] 16:49:14 [AMZN10-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 16:49:18 [ENDED OPERATION - AMZN10]
+[12/09/24] 16:49:29 [ENDED OPERATION - CRA25]
+[12/09/24] 16:49:29 [M6009-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 28 kts
+[12/09/24] 16:49:39 [ENDED OPERATION - M6009]
+
