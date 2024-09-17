@@ -1,0 +1,77 @@
+
+       _________________________________________________________________________________________________  
+      /                                                                                                 \ 
+              ⋆｡˚ ✈︎ ✈️ ⋆       Tactical conflict Resolution Service Provision - AURD       ⋆｡˚ ✈︎ ✈️ ⋆        
+      \_________________________________________________________________________________________________/ 
+
+Connection attempt to the AURD environment
+...
+Succesfull authentification
+Provider : rodolphe02
+[12/09/24] 17:31:25 [NEW OPERATION - UAS0] (rodolphe02)
+[12/09/24] 17:31:25 [NEW OPERATION - AMZN1] (RODOLPHE02)
+[12/09/24] 17:31:26 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:31:26 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 309 and maintain for 32 seconds then turn right to heading 354
+[12/09/24] 17:31:26 [AMZN1-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:31:46 [ENDED OPERATION - AMZN1]
+[12/09/24] 17:31:46 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 17:31:46 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 39 and maintain for 32 seconds then turn left recovering heading 354
+[12/09/24] 17:32:14 [NEW OPERATION - CRA16] (RODOLPHE02)
+[12/09/24] 17:32:39 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Decelerate to calibrate your speed at 9 kts
+[12/09/24] 17:32:39 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:32:39 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Turn left to heading 322 and maintain for 44 seconds then turn right to heading 7
+[12/09/24] 17:32:40 [CRA16-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:33:04 [ENDED OPERATION - CRA16]
+[12/09/24] 17:33:19 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:33:19 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:33:34 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:33:49 [NEW OPERATION - HORSE2] (RODOLPHE02)
+[12/09/24] 17:33:59 [NEW OPERATION - TECH17] (RODOLPHE02)
+[12/09/24] 17:34:20 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:34:20 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 325 and maintain for 32 seconds then turn right to heading 10
+[12/09/24] 17:34:29 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Decelerate to calibrate your speed at 9 kts
+[12/09/24] 17:34:29 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:34:29 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Turn left to heading 334 and maintain for 44 seconds then turn right to heading 19
+[12/09/24] 17:34:54 [TECH17-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 7 kts
+[12/09/24] 17:34:54 [TECH17-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:35:04 [HORSE2-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 17:35:04 [TECH17-RODOLPHE02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 16 kts
+[12/09/24] 17:35:04 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:35:04 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 17:35:05 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 77 and maintain for 44 seconds then turn left recovering heading 32
+[12/09/24] 17:35:09 [TECH17-RODOLPHE02 - TRAFFIC ADVISORY] Decelerate to calibrate your speed at 7 kts
+[12/09/24] 17:35:09 [TECH17-RODOLPHE02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:35:14 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:35:14 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:35:15 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 358 and maintain for 32 seconds then turn right to heading 43
+[12/09/24] 17:35:39 [NEW OPERATION - CRA3] (RODOLPHE02)
+[12/09/24] 17:35:39 [NEW OPERATION - HORSE18] (RODOLPHE02)
+[12/09/24] 17:35:54 [ENDED OPERATION - HORSE2]
+[12/09/24] 17:35:55 [CRA3-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:35:55 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Accelerate to calibrate your speed at 9 kts
+[12/09/24] 17:35:55 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:35:55 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Turn left to heading 06 and maintain for 44 seconds then turn right to heading 51
+[12/09/24] 17:36:09 [CRA3-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 17:36:09 [HORSE18-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:36:19 [ENDED OPERATION - CRA3]
+[12/09/24] 17:36:19 [TECH17-RODOLPHE02 - RESOLUTION ADVISORY] Decelerate to calibrate your speed at 13 kts
+[12/09/24] 17:36:19 [TECH17-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:36:50 [TECH17-RODOLPHE02 - RESOLUTION ADVISORY] Accelerate to calibrate your speed at 17 kts
+[12/09/24] 17:36:50 [TECH17-RODOLPHE02 - RESOLUTION ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:36:50 [HORSE18-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
+[12/09/24] 17:37:09 [NEW OPERATION - PHAN4] (RODOLPHE02)
+[12/09/24] 17:37:09 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Accelerate to calibrate your speed at 9 kts
+[12/09/24] 17:37:09 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:37:10 [UAS0-rodolphe02 - RESOLUTION ADVISORY] Turn left to heading 354 and maintain for 44 seconds then turn right to heading 39
+[12/09/24] 17:37:19 [NEW OPERATION - M60019] (RODOLPHE02)
+[12/09/24] 17:37:24 [ENDED OPERATION - HORSE18]
+[12/09/24] 17:37:34 [ENDED OPERATION - TECH17]
+[12/09/24] 17:37:34 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial speed calibrated at 13 kts
+[12/09/24] 17:37:34 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Recover your initial flight level assigned at 250ft
+[12/09/24] 17:37:34 [UAS0-rodolphe02 - CLEAR OF CONFLICT] Turn right to heading 84 and maintain for 44 seconds then turn left recovering heading 39
+[12/09/24] 17:37:39 [PHAN4-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:37:39 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Accelerate to calibrate your speed at 9 kts
+[12/09/24] 17:37:40 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Descent to a lower flight level at 150ft
+[12/09/24] 17:37:40 [UAS0-rodolphe02 - TRAFFIC ADVISORY] Turn left to heading 354 and maintain for 44 seconds then turn right to heading 39
+[12/09/24] 17:38:04 [M60019-RODOLPHE02 - TRAFFIC ADVISORY] Climb to a higher flight level at 350ft
+[12/09/24] 17:38:25 [M60019-RODOLPHE02 - RESOLUTION ADVISORY] Descent to a lower flight level at 350ft
