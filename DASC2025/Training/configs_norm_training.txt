@@ -1,0 +1,9 @@
+max_obs_mean_sep: 2.201376438140869
+max_obs_min_sep: 1.9097332954406738
+max_obs_max_sep: 3.051378011703491
+max_ver_mean_sep: 1.854544997215271
+max_ver_min_sep: 1.4538888931274414
+max_ver_max_sep: 3.047084093093872
+max_mean_curvature: 8.906049728393555
+max_min_curv: 1.006670594215393
+max_max_curv: 479.28546142578125

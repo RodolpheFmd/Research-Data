@@ -1,0 +1,3 @@
+duration,obstacle violation,avg_transitions,cum_transitions,max_transitions,corridor_length,avg_operation_length,cum_operation_length,max_operation_length,unexploited_regions,avgSF_extra-flown distance,>100SF_extra-flown distance,<100SF_extra-flown distance,<65SF_extra-flown distance,<50SF_extra-flown distance,<30SF_extra-flown distance,reward,self-intersections
+0.598766565322876,0,0.18738358,1.3116851,0.47610766,5.540874,0.5207315,25.515844,2.1103654,0.291,0.058230154,0.14285715,0.0952381,0.0,0.47619048,0.2857143,1.4424235,0.0
+0.44075536727905273,0,0.09571648,0.28714943,0.15833327,5.1838655,0.4522754,4.0704784,1.9767272,0.342,0.17795072,0.0,0.33333334,0.33333334,0.33333334,0.0,1.6136734,0.0
