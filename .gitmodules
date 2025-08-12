@@ -1,0 +1,4 @@
+[submodule "papers/ICRAT2024"]
+	path = papers/ICRAT2024
+	url = https://github.com/RodolpheFmd/ICRAT2024.git
+	branch = main
