@@ -1,7 +1,7 @@
-# Demonstrating Collaborative Advanced UTM Services in a Co-Simulation Environment - Dataset
+# A Holistic Design and Simulation of Advanced UTM Services for Urban Air Mobility - Dataset
 
 ## Overview
-This repository contains data related to the journal paper titled "Demonstrating Collaborative Advanced UTM Services in a Co-Simulation Environment". The dataset aims to support research and development in Unmanned Aircraft System (UAS) Traffic Management (UTM) by providing comprehensive records of various experimental scenarios. These scenarios demonstrate advanced UTM services within a co-simulation environment, focusing on pre-flight and in-flight phases to ensure safe and efficient operations.
+This repository contains data related to the journal paper titled "A Holistic Design and Simulation of Advanced UTM Services for Urban Air Mobility" submitted to IEEE Transactions on Aerospace and Electronic Systems Magazine. The dataset aims to support research and development in Unmanned Aircraft System (UAS) Traffic Management (UTM) by providing comprehensive records of various experimental scenarios. These scenarios demonstrate advanced UTM services within a co-simulation environment, focusing on pre-flight and in-flight phases to ensure safe and efficient operations.
 
 The co-simulation environment integrates multiple advanced U-space services, including Operation Plan Preparation, Risk Analysis and Assistance, Dynamic Capacity Management, and Strategic Conflict Resolution during the pre-flight phase. In-flight services include Conformance Monitoring, Contingency Management, and Tactical Conflict Resolution.
 
