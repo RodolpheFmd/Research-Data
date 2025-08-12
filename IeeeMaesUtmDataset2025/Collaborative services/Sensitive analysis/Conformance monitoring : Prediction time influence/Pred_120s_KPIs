@@ -1,0 +1,29 @@
+min separation,0.2656596829846374,Nm
+flight status change,95
+interactions,60
+hours of flight,153.2375,hours
+raw density,1.3044766732181168,flights/Nm2
+Mavic aircraft,15
+Eh216 aircraft,20
+Technalia aircraft,0
+Amzn aircraft,0
+Cranfield aircraft,0
+CranfieldV2 aircraft,14
+Horsefly aircraft,10
+M100 aircraft,11
+M200 aircraft,13
+M600 aircraft,10
+Mnet aircraft,0
+Phan4 aircraft,7
+
+,<0.03Nm,0.03Nm to 0.07Nm,0.07Nm to 0.1Nm,0.1Nm to 0.15Nm,0.15Nm to 0.3Nm,0.3Nm to 0.5Nm,0.5Nm to 1Nm,1Nm to 2Nm,2Nm to 5Nm,>5Nm
+nominal/nominal,0.0,0.0,0.0,0.0,30.0,320.0,2202.0,13734.0,55190.0,62958.0,
+nominal/contingent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+non-conformant/nominal,0.0,0.0,0.0,0.0,26.0,100.0,4628.0,22480.0,109560.0,107584.0,
+tactical/nominal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+tactical/contingent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+tactical/non-conformant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+tactical/tactical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+contingent/non-conformant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+contingent/contingent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+non-conformant/non-conformant,0.0,0.0,0.0,0.0,0.0,206.0,1876.0,11862.0,48006.0,56234.0,

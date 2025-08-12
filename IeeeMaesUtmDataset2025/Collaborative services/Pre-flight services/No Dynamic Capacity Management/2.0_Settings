@@ -1,0 +1,6 @@
+"name,2.0"
+"timestep,1"
+"conformance monitoring service,False"
+"contingency management service,False"
+"tactical conflict resolution service,False"
+"aircraft performance,{'HPV': {'Eh216': {'toffl_rad_value': 30, 'alt_buffer': 80, 'exp_factor': 1}}, 'SPV': {'CranfieldV2': {'toffl_rad_value': 15, 'alt_buffer': 80, 'exp_factor': 0.2}, 'Horsefly': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.5}, 'M100': {'toffl_rad_value': 13, 'alt_buffer': 80, 'exp_factor': 0.5}, 'M200': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.3}, 'M600': {'toffl_rad_value': 13, 'alt_buffer': 80, 'exp_factor': 0.1}, 'Mavic': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.1}, 'Phan4': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.2}}}"

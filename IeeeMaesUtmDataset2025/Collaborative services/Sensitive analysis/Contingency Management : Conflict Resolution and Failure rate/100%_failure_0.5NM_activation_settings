@@ -1,0 +1,16 @@
+name,X.27
+timestep,1
+conformance monitoring service,True
+conformance prediction,False
+non conformance tolerance buffer,8
+contingency management service,True
+loss of separation: warning range,0.5
+loss of separation: conflict range,0.27
+loss of power: safety target,2.777777777777778e-05
+loss of link: safety target,2.777777777777778e-05
+loss of control: safety target for SPVs,2.777777777777778e-05
+loss of control: safety target for HPVs,1.388888888888889e-05
+tactical conflict resolution service,True
+AI model,4.4
+Activation layer,0.5
+aircraft performance,{'HPV': {'Eh216': {'toffl_rad_value': 30, 'alt_buffer': 80, 'exp_factor': 1}}, 'SPV': {'CranfieldV2': {'toffl_rad_value': 15, 'alt_buffer': 80, 'exp_factor': 0.2}, 'Horsefly': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.5}, 'M100': {'toffl_rad_value': 13, 'alt_buffer': 80, 'exp_factor': 0.5}, 'M200': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.3}, 'M600': {'toffl_rad_value': 13, 'alt_buffer': 80, 'exp_factor': 0.1}, 'Mavic': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.1}, 'Phan4': {'toffl_rad_value': 14, 'alt_buffer': 80, 'exp_factor': 0.2}}}
